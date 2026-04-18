@@ -102,6 +102,10 @@
             //var q16 = products.First(p => p.UnitPrice > 50);
             #endregion
 
+            #region Q17
+            //var q17 = products.FirstOrDefault(p => p.UnitPrice > 500);
+            #endregion
+
         }
     }
 }
