@@ -38,6 +38,15 @@
             //                });
             #endregion
 
+            #region Q7
+            //var q7 = products.GroupBy(p => p.Category)
+            //                 .Select(g => new
+            //                 {
+            //                     Category = g.Key,
+            //                     Names = g.Select(p => p.ProductName)
+            //                 });
+            #endregion
+
         }
     }
 }
