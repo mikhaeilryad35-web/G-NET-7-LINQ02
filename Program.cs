@@ -13,6 +13,12 @@
             #region Q2
             //var q2 = products.Skip(5).Take(5);
             #endregion
+
+            #region Q3
+            //var q3 = products.OrderBy(p => p.UnitPrice)
+            //                 .TakeWhile(p => p.UnitPrice < 25);
+            #endregion
+
         }
     }
 }
