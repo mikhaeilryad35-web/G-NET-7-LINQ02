@@ -98,6 +98,10 @@
             //var q15 = dict[18];
             #endregion
 
+            #region Q16
+            //var q16 = products.First(p => p.UnitPrice > 50);
+            #endregion
+
         }
     }
 }
