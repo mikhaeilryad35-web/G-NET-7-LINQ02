@@ -70,6 +70,11 @@
 
             #endregion
 
+            #region Q11
+            //var q11Min = products.Min(p => p.UnitPrice);
+            //var q11Max = products.Max(p => p.UnitPrice);
+            #endregion
+
         }
     }
 }
