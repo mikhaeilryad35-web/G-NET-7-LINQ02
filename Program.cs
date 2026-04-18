@@ -75,6 +75,10 @@
             //var q11Max = products.Max(p => p.UnitPrice);
             #endregion
 
+            #region Q12
+            //var q12 = products.Select(p => p.Category).Distinct();
+            #endregion
+
         }
     }
 }
