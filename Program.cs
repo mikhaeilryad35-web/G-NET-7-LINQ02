@@ -93,6 +93,11 @@
             //var q14 = list1.Except(list2, StringComparer.OrdinalIgnoreCase);
             #endregion
 
+            #region Q15
+            //var dict = products.ToDictionary(p => p.ProductID);
+            //var q15 = dict[18];
+            #endregion
+
         }
     }
 }
