@@ -111,6 +111,11 @@
             //                   .Select(x => $"7 x {x} = {7 * x}");
             #endregion
 
+            #region Q19
+            //var q19 = Enumerable.Range(1, 30)
+            //                     .Where(x => x % 2 == 0);
+
+            #endregion
         }
     }
 }
