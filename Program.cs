@@ -29,6 +29,15 @@
             //var q5 = ids.Contains(9);
             #endregion
 
+            #region Q6
+            //var q6 = products.GroupBy(p => p.Category)
+            //                .Select(g => new
+            //                {
+            //                    Category = g.Key,
+            //                    Count = g.Count()
+            //                });
+            #endregion
+
         }
     }
 }
