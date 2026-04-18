@@ -53,6 +53,18 @@
             //                  .Select(g => g.Key);
             #endregion
 
+            #region Q9
+            //var q9 = from c in customers
+            //         group c by c.Country into g
+            //         select new
+            //         {
+            //             Country = g.Key,
+            //             Count = g.Count(),
+            //             TotalOrderValue = g.Sum(c => c.Orders.Sum(o => o.Total))
+            //         };
+
+            #endregion
+
         }
     }
 }
