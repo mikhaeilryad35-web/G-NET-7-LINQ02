@@ -79,6 +79,13 @@
             //var q12 = products.Select(p => p.Category).Distinct();
             #endregion
 
+            #region Q13
+            //int[] setA = { 1, 3, 5, 7, 9, 11, 13 };
+            //int[] setB = { 3, 6, 9, 12, 15, 13 };
+
+            //var q13 = setA.Except(setB);
+            #endregion
+
         }
     }
 }
