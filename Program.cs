@@ -19,6 +19,11 @@
             //                 .TakeWhile(p => p.UnitPrice < 25);
             #endregion
 
+            #region Q4
+            //var q4 = products.Where(p => p.Category == "Seafood")
+            //                .All(p => p.UnitsInStock > 0);
+            #endregion
+
         }
     }
 }
